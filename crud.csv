@@ -1,0 +1,8 @@
+_id,name,email,role_type,status
+e30c02487f134c7c8d85ed7984032dbe,anil,anil@gmail.com,admin,active
+0227264c3d6f4ce99800875887d2787f,harish,harish@gmail.com,customer executive,active
+a6799dff203940e49084576400dda506,pradeep,pradeep@gmail.com,admin,inactive
+419818f896c2407f8da635d29283e026,krishna,krishna@gmail.com,customer executive,inactive
+0e1352511bf64ec4a47e4731bb9ccf2c,sunil,sunil@gmail.com,admin,pending
+e709b48e8588486eb1f7dadf5631932e,bharath,bharath@gmail.com,customer executive,pending
+b4a0188b9e804dea92f48ad96518ac39,sandeep,sandeep@gmail.com,admin,inactive
